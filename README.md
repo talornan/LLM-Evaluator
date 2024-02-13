@@ -1,12 +1,12 @@
-# LLM Evaluator: Unleash the Potential of Large Language Models
+# LLM Evaluator: Unleash the Potential of Large Language Models 🪄
 
-## Project Description
+## 📖 Project Description
 **Why waste precious time on manual evaluation of responses from various large language models?
 LLM Evaluator is here to the rescue!**
 
 Our web application automates the entire evaluation process, providing you with deep insights and comparisons between different models and tasks.
 
-### **Here's what LLM Evaluator can do for you:**
+### **Here's what LLM Evaluator can do for you:**  ⚡
 
 **Effortless Evaluation**: Feed your prompts, choose models, and instantly get deep insights and comparisons with key metrics like Fluency, Coherence, and Toxicity. ✨
 
@@ -27,7 +27,7 @@ Our web application automates the entire evaluation process, providing you with 
 1. Prompt Engineers:✨ Create Prompts, analyze performance, receive recommendations for improving Prompts.✨
 2. Model Developers: Analyze model performance, receive recommendations on which model to use for a specific Prompt.
 
-##Technologies:
+## Technologies: ✍️ 
 
 LLM Evaluator leverages a robust tech stack for seamless evaluation and insightful comparisons:
 
@@ -47,5 +47,5 @@ API Functionality:
 **Ready to unleash the full potential of your LLMs?**
 **Start your free trial today! ✨** 
 
-## Technologies: 
+
 HTML, CSS, Javascript , Python , MySQL
