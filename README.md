@@ -4,7 +4,7 @@
 **Why waste precious time on manual evaluation of responses from various large language models?
 LLM Evaluator is here to the rescue!**
 
-Our web application automates the entire evaluation process, providing you with deep insights and comparisons between different models and tasks.
+My web application automates the entire evaluation process, providing you with deep insights and comparisons between different models and tasks.
 
 ### **Here's what LLM Evaluator can do for you:**  ⚡
 
@@ -35,10 +35,8 @@ LLM Evaluator leverages a robust tech stack for seamless evaluation and insightf
 **Backend:** Python (Fast API for a performant and flexible REST API)
 **Machine Learning:** Hugging Face Transformer library for efficient access and interaction with various LLMs
 **Database:** MySQL for storing prompts, responses, and evaluation results
-API Functionality:
 
-**The REST API empowers interaction with LLM Evaluator:**
-
+**API Functionality:** ✨
 **Submit Prompts:** Send your prompts and specify desired LLM models through intuitive API calls.
 **Evaluation Results:** Retrieve comprehensive reports including key metrics like Fluency, Coherence, Roughness, and Toxicity (leveraging Hugging Face evaluation functions).
 **Model Comparison:** Compare performance across different LLMs for informed decision-making.
@@ -47,5 +45,3 @@ API Functionality:
 **Ready to unleash the full potential of your LLMs?**
 **Start your free trial today! ✨** 
 
-
-HTML, CSS, Javascript , Python , MySQL
