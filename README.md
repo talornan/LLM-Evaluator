@@ -1,10 +1,7 @@
 # LLM Evaluator: Unleash the Potential of Large Language Models 🪄
 
 ## 📖 Project Description
-**Why waste precious time on manual evaluation of responses from various large language models?
-LLM Evaluator is here to the rescue!**
-
-My web application automates the entire evaluation process, providing you with deep insights and comparisons between different models and tasks.
+**Stop wasting time on manual LLM evaluation! ⏰**  LLM Evaluator automates everything - feed your prompts, choose models, and instantly get deep insights & comparisons across models and tasks.
 
 ### **Here's what LLM Evaluator can do for you:**  ⚡
 
